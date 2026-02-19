@@ -5,7 +5,7 @@ session_start();
 <html lang="th">
 <head>
 <meta charset="UTF-8">
-<title>Cat Amusement Park</title>
+<title>Cat Park</title>
 
 <style>
 body{
@@ -150,7 +150,7 @@ body{
 <div class="cat-park">
 
     <div class="header">
-        <h1>🐱 Cat Amusement Park</h1>
+        <h1>🐱 Cat Park</h1>
     </div>
 
     <div id="cat-container"></div>
